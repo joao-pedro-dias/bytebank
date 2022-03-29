@@ -3,8 +3,9 @@
 </h1>
 
 <p align='center'>
-  Projeto desenvolvido juntamente com a equipe da alura.
+  Fundamentos de FLutter: crie o seu primeiro app (Alura)
 </p>
+
 
 <h1>Versão 1</h1>
 <p>Este aplicativo tem como finalizadade criar transferências bancárias.</p>
@@ -15,5 +16,3 @@ Telas existentes:
 
 <h1>Versão 2</h2>
 Codando...
-
-<p>Este projeto teve por finalidade apresentar os fundamentos do Flutter</p>
