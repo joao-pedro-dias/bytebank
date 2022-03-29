@@ -1,16 +1,19 @@
-# bytebank
+<h1 align='center'>
+  Bytebank
+</h1>
 
-A new Flutter project.
+<p align='center'>
+  Projeto desenvolvido juntamente com a equipe da alura.
+</p>
 
-## Getting Started
+<h1>Versão 1</h1>
+<p>Este aplicativo tem como finalizadade criar transferências bancárias.</p>
+Telas existentes:
 
-This project is a starting point for a Flutter application.
+- Transferência (tela inicial) - nela será apresentada as transferências realizadas
+- Criando transferência - esta tela apresenta dois campos, que seria Número da Conta e Valor da transferência.
 
-A few resources to get you started if this is your first Flutter project:
+<h1>Versão 2</h2>
+Codando...
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<p>Este projeto teve por finalidade apresentar os fundamentos do Flutter</p>
